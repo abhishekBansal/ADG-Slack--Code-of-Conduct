@@ -1,9 +1,5 @@
 # ADG Slack Team- Code of Conduct
 
----
-layout: default
-title: Code of Conduct and Guidelines for Slack
----
 
 # Code of Conduct and Guidelines for Slack
 
