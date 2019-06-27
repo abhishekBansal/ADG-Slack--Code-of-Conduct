@@ -34,7 +34,7 @@ For this to be the case, it is vital that we all follow a basic set of guideline
 
 ## How to report issues
 
-If someone is acting inappropriately or violating this Code of Conduct in any shape or form, and they are not receptive to your feedback or you prefer not to confront them, please get in touch with one of the Administrators. The main Administrators are Ilya Ryzhenkov (@orangy), Hadi Hariri (@hhariri) and Roman Belov (@roman.belov). 
+If someone is acting inappropriately or violating this Code of Conduct in any shape or form, and they are not receptive to your feedback or you prefer not to confront them, please get in touch with one of the Administrators. The main Administrators are Abhishek Bansal (@Abhishek Bansal), Anuj Middha (@Anuj Middha) and Shahbaz Hussain (@Shahbaz Hussain). 
 
 ## Basic Usage Guidelines
 The influx of messages per day and the numerous channels can lead to a lot of noise and little value in the long run in Slack tema. If we all follow a set of guidelines, it can help make things more useful and bearable for everyone. 
