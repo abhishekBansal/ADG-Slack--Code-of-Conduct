@@ -13,7 +13,7 @@
 
 ADG Slack aims to be an inclusive space that is committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
 
-For this to be the case, it is vital that we all follow a basic set of guidelines and most importantly adhere to the code of conduct. As such, please make sure you read this Code of Conduct and Basic Usage Guidelines in its entirety. This isn’t your regular License Agreement that you should scroll through and agree blindy. It’s here for a reason and also contains practical information. 
+For this to be the case, it is vital that we all follow a basic set of guidelines and most importantly adhere to the code of conduct. As such, please make sure you read this Code of Conduct and Basic Usage Guidelines in its entirety. This isn’t your regular License Agreement that you should scroll through and agree blindly. It’s here for a reason and also contains practical information.
 
 ## How to behave
 
@@ -34,7 +34,7 @@ For this to be the case, it is vital that we all follow a basic set of guideline
 
 ## How to report issues
 
-If someone is acting inappropriately or violating this Code of Conduct in any shape or form, and they are not receptive to your feedback or you prefer not to confront them, please get in touch with one of the Administrators. The main Administrators are Ilya Ryzhenkov (@orangy), Hadi Hariri (@hhariri) and Roman Belov (@roman.belov). 
+If someone is acting inappropriately or violating this Code of Conduct in any shape or form, and they are not receptive to your feedback or you prefer not to confront them, please get in touch with one of the Administrators. The main Administrators are Abhishek Bansal (@Abhishek Bansal), Anuj Middha (@Anuj Middha) and Shahbaz Hussain (@Shahbaz Hussain). 
 
 ## Basic Usage Guidelines
 The influx of messages per day and the numerous channels can lead to a lot of noise and little value in the long run in Slack tema. If we all follow a set of guidelines, it can help make things more useful and bearable for everyone. 
@@ -59,7 +59,9 @@ The influx of messages per day and the numerous channels can lead to a lot of no
 
 This is a list of some of the most popular channels, as well as a sample of the types of channels available. 
 
-* #meetup Discuss everything related to past and upcoming meetup
+- `#meetups`: Discuss everything related to past and upcoming meetup
+- `#jobs`: For Hiring and Freelance related discussions and opportunities.
+- `#meta`: For general discussions like channel requests and everything else you are unsure about.
 
 ## Copyright
 
